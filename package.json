@@ -1,0 +1,16 @@
+{
+  "name": "internmela",
+  "version": "1.0.0",
+  "description": "Internmela 2019 website ,introduces to companies that will be coming",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "akash",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "scrollreveal": "^4.0.5"
+  }
+}
